@@ -1,7 +1,7 @@
 <h1 align="center">Hi😊 I'm Valeria!</h1>
-<h3 align="center">A junior Full Stack developer, student at Coderhouse, Argentina💙 Wishing to continue learning and professionalizing in the field.</h3>
+<h3 align="center">Enthusiastic junior Frontend Developer currently pursuing studies at Coderhouse, Argentina💙 Wishing to continue learning and professionalizing in the field.</h3>
 <br>
-<p align="center">I'm currently learning <strong>REACT FRAMEWORK</strong> and recently got my degrees in <strong>JAVASCRIPT</strong> and <strong>WEBSITE DEVELOPER</strong> where I improve myself in HTML, CSS and SASS tools.</p>
+<p align="center">I'm currently learning <strong>BACKEND DEVELOPMENT</strong> and recently got my degrees in <strong>React JS</strong>, <strong>JavaScript</strong> & <strong>Web Development.</strong></p>
 
 ---
 📫How to reach me: **valeria.casatti@gmail.com**
@@ -15,6 +15,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" widht="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" widht="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" widht="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MUI" widht="40" height="40"/>&nbsp;
     
     
   </div>
