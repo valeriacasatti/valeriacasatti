@@ -1,7 +1,9 @@
 <h1 align="center">Hi😊 I'm Valeria!</h1>
-<h3 align="center">Enthusiastic junior Frontend Developer currently pursuing studies at Coderhouse, Argentina💙 Wishing to continue learning and professionalizing in the field.</h3>
+<h3 align="center">Aspiring junior full-stack Developer dedicated to advancing my expertise in web development, through ongoing studies at Coderhouse in Argentina.</h3>
+<h4 align="center">Eager to embark on a continuous learning journey and further professionalize in the tech industry.</h4>
 <br>
-<p align="center">I'm currently learning <strong>BACKEND DEVELOPMENT</strong> and recently got my degrees in <strong>React JS</strong>, <strong>JavaScript</strong> & <strong>Web Development.</strong></p>
+<p align="center">🌱 I’m currently expanding my skill set into <strong>BACKEND DEVELOPMENT</strong></p>
+<p align="center">🏅 I recently attained certifications in <strong>React JS</strong>, <strong>JavaScript</strong>, and <strong>Web Design</strong></p>
 
 ---
 📫How to reach me: **valeria.casatti@gmail.com**
@@ -16,8 +18,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" widht="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" widht="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MUI" widht="40" height="40"/>&nbsp;
-    
-    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" widht="40" height="40"/>&nbsp;    
   </div>
 </div>
     
