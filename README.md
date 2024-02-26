@@ -7,12 +7,8 @@
 ---
 📫How to reach me: **valeria.casatti@gmail.com**
 ---
-<p align="center">
-  👯Actively seeking opportunities to contribute and grow as a Full Stack Web Developer, I am eager to join a dynamic team of talented programmers.
-My goal is to continue my learning journey alongside seasoned professionals, leveraging their expertise to build a strong foundation for my career. 
-I am excited about the prospect of making meaningful contributions to innovative projects and expanding my skills in a collaborative and inspiring work environment.
+<p align="center">👯Seeking a collaborative environment to continue learning and contribute effectively. Eager to join a team of experienced developers, I aim to build a strong career foundation through active participation in innovative projects.</p>
 
-</p>
 <div align="center">
   <h4>🏋🏻Languages and tools:</h4>
   <div>
