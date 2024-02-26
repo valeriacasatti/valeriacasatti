@@ -1,11 +1,15 @@
 <h1 align="center">Hi😊 I'm Valeria!</h1>
 <h3 align="center">Recent graduate as a Full Stack Web Developer from Coderhouse.</h3>
-<h4 align="center">Passionate about advancing my expertise in web development, eager to embark on a continuous learning journey and further professionalize in the dynamic tech industry</h4>
+<h4 align="center">Passionate about advancing my expertise in web development, eager to embark on a continuous learning journey and further professionalize in the dynamic tech industry.</h4>
 <br>
-<p align="center">🏅 I recently attained certifications in <strong>Backend development</strong>, <strong>React JS</strong>, <strong>JavaScript</strong>, and <strong>Web Design</strong></p>
+<p align="center">🏅 I recently attained certifications in <strong>Backend Development</strong>, <strong>React JS</strong>, <strong>JavaScript</strong>, and <strong>Web Design</strong></p>
 
 ---
 📫How to reach me: **valeria.casatti@gmail.com**
+---
+👯Actively seeking opportunities to contribute and grow as a Full Stack Web Developer, I am eager to join a dynamic team of talented programmers.
+My goal is to continue my learning journey alongside seasoned professionals, leveraging their expertise to build a strong foundation for my career. 
+I am excited about the prospect of making meaningful contributions to innovative projects and expanding my skills in a collaborative and inspiring work environment.
 
 <div align="center">
   <h4>🏋🏻Languages and tools:</h4>
