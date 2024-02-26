@@ -1,6 +1,6 @@
 <h1 align="center">Hi😊 I'm Valeria!</h1>
-<h3 align="center">Recent graduate as a Full Stack Web Developer from Coderhouse, passionate about advancing my expertise in web development.</h3>
-<h4 align="center"> Eager to embark on a continuous learning journey and further professionalize in the dynamic tech industry</h4>
+<h3 align="center">Recent graduate as a Full Stack Web Developer from Coderhouse.</h3>
+<h4 align="center">Passionate about advancing my expertise in web development, eager to embark on a continuous learning journey and further professionalize in the dynamic tech industry</h4>
 <br>
 <p align="center">🏅 I recently attained certifications in <strong>Backend development</strong>, <strong>React JS</strong>, <strong>JavaScript</strong>, and <strong>Web Design</strong></p>
 
