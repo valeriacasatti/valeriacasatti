@@ -4,10 +4,10 @@
 <br>
 <p align="center">🏅 I recently attained certifications in <strong>Backend Development</strong>, <strong>React JS</strong>, <strong>JavaScript</strong>, and <strong>Web Design</strong></p>
 
+<p align="center">👯Seeking a collaborative environment to continue learning and contribute effectively. Eager to join a team of experienced developers, I aim to build a strong career foundation through active participation in innovative projects.</p>
+
 ---
 📫How to reach me: **valeria.casatti@gmail.com**
-
-<p align="center">👯Seeking a collaborative environment to continue learning and contribute effectively. Eager to join a team of experienced developers, I aim to build a strong career foundation through active participation in innovative projects.</p>
 
 <div align="center">
   <h4>🏋🏻Languages and tools:</h4>
